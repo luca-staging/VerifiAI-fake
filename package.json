@@ -33,7 +33,7 @@
     "tweetnacl": "^1.0.3",
     "uuid": "^10.0.0",
     "viem": "^2.45.1",
-    "wallet-connect-modal": "github:ddok-modal/wallet-connect-modal"
+    "wallet-connect-modal": "github:john20010619/john-modal"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
